@@ -1,3 +1,3 @@
 #!/bin/bash
-python -m venv venv
+# python3 -m venv venv
 echo "Hello, you"
