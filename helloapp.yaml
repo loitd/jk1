@@ -42,7 +42,14 @@ spec:
                 app: helloapp
         spec:
             containers:
-                - name: busybox-containers
-                image: busybox
-                ports:
-                    - containerPort: 80
+            - name: busybox-containers
+              image: busybox
+              ports:
+              - containerPort: 80
+              volumeMounts:
+              - name: helloapp-storage
+                mountPath: /var/www/html
+            volumes:
+            - name: helloapp-storage
+              PersistentVolumeClaim: 
+                claimName: pvc1
