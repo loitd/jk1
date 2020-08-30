@@ -1,0 +1,583 @@
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 21:53:12]: worker 0 started
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 21:53:12]: Released. Now processing None ..........
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 21:53:12]: Released. Now processing None ..........
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 21:53:12]: Released. Now processing None ..........
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 21:53:12]: Released. Now processing None ..........
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 21:53:12]: Released. Now processing None ..........
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 21:53:12]: Released. Now processing None ........[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 21:54:42]: worker 0 started
+[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/23 21:58:23]: worker 3 started
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 21:58:23]: worker 2 started
+[DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 21:58:23]: worker 4 started
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 21:58:23]: worker 0 started
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 21:58:23]: worker 1 started
+[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/23 21:58:44]: worker 3 started
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 21:58:44]: worker 2 started
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 21:58:44]: worker 0 started
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 21:58:44]: worker 1 started
+[DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 21:58:44]: worker 4 started
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 22:00:13]: worker 2 started
+[DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 22:00:13]: worker 4 started
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 22:00:13]: worker 1 started
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 22:00:13]: worker 0 started
+[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/23 22:00:13]: worker 3 started
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 22:04:01]: worker 0 started
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 22:04:01]: worker 1 started
+[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/23 22:04:01]: worker 3 started
+[DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 22:04:01]: worker 4 started
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 22:06:03]: worker 1 started
+[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/23 22:06:03]: worker 3 started
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 22:06:03]: worker 2 started
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 22:06:03]: worker 0 started
+[DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 22:06:03]: worker 4 started
+[DESKTOP-KGFRJ8M][MainThread][2020/08/23 22:06:03]: Fill the queue
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 22:06:03]: No job found ..........
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 22:06:03]: No job found ..........
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 22:06:03]: No job found ...[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 22:07:34]: worker 1 started
+[DESKTOP-KGFRJ8M][MainThread][2020/08/23 22:07:34]: Fill the queue
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 22:07:34]: worker 2 started
+[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/23 22:07:34]: worker 3 started
+[DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 22:07:34]: worker 4 started
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 22:07:34]: No job found ..........
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 22:15:59]: worker 2 started
+[DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 22:15:59]: worker 4 started
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 22:15:59]: worker 1 started
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 22:15:59]: worker 0 started
+[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/23 22:15:59]: worker 3 started
+[DESKTOP-KGFRJ8M][MainThread][2020/08/23 22:16:28]: Fill the queue
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 22:16:28]: worker 2 started
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 22:16:28]: worker 1 started
+[DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 22:16:28]: worker 4 started
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 22:17:22]: worker 0 started
+[DESKTOP-KGFRJ8M][MainThread][2020/08/23 22:17:22]: Fill the queue
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 22:17:22]: worker 2 started
+[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/23 22:17:22]: worker 3 started
+[DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 22:17:22]: worker 4 started
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 22:17:22]: worker 1 started
+[DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 22:18:44]: worker 4 started
+[DESKTOP-KGFRJ8M][MainThread][2020/08/23 22:18:44]: Fill the queue
+[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/23 22:18:44]: worker 3 started
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 22:18:44]: worker 0 started
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 22:18:44]: worker 1 started
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 22:18:44]: Released. Now processing 3 [DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 22:18:44]: Released. Now processing 2 [DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 22:18:44]: No job found [DESKTOP-KGFRJ8M][Thread-4  ][2020/08/23 22:18:44]: Released. Now processing 0 [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 22:18:44]: Released. Now processing 1 ed
+..............................................
+..
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 22:18:44]: Released. Now processing 4 ..
+
+
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 22:18:44]: Released. Now processing 5 [DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 22:18:44]: Released. Now processing 6 [DESKTOP-KGFRJ8M][Thread-4  ][2020/08/23 22:18:44]: Released. Now processing 8 [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 22:18:44]: Released. Now processing 7 ..............................................
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 22:18:44]: Released. Now processing 9 ..
+
+[DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 22:18:44]: Released. Now processing 10 ..
+
+[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/23 22:18:44]: Released. Now processing 11 [DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 22:18:44]: Released. Now processing 13 [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 22:18:44]: Released. Now processing 12 ..............................................
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 22:18:44]: Released. Now processing 14 .
+.[DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 22:18:44]: Released. Now processing 15 
+.[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/23 22:18:44]: Released. Now processing 16 
+.
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 22:18:44]: Released. Now processing 17 [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 22:18:44]: Released. Now processing 18 ..............................................
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 22:18:44]: Released. Now processing 19 .
+.
+[DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 22:18:44]: Released. Now processing 20 .
+[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/23 22:18:44]: Released. Now processing 21 .[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 22:18:44]: Released. Now processing 22 
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 22:18:44]: Released. Now processing 23 ..............................................
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 22:18:44]: Released. Now processing 24 ..
+
+.[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/23 22:18:44]: Released. Now processing 26 
+[DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 22:18:44]: Released. Now processing 25 .
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 22:18:44]: Released. Now processing 28 [DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 22:18:44]: Released. Now processing 27 ..............................................
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 22:18:44]: Released. Now processing 29 ..
+
+[DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 22:18:44]: Released. Now processing 31 [DESKTOP-KGFRJ8M][Thread-4  ][2020/08/23 22:18:44]: Released. Now processing 30 .
+.
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 22:18:44]: Released. Now processing 32 [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 22:18:44]: Released. Now processing 33 ..............................................
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 22:18:44]: Released. Now processing 34 ..
+
+.DESKTOP-KGFRJ8M][Thread-4  ][2020/08/23 22:18:44]: Released. Now processing 35 .
+
+[DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 22:18:44]: Released. Now processing 36 [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 22:18:44]: Released. Now processing 37 [DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 22:18:44]: Released. Now processing 38 ..............................................
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 22:18:44]: Released. Now processing 39 .
+..
+.[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/23 22:18:44]: Released. Now processing 40 
+
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 22:18:44]: Released. Now processing 41 [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 22:18:44]: Released. Now processing 42 [DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 22:18:44]: Released. Now processing 43 ..............................................
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 22:18:44]: Released. Now processing 44 .
+..[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/23 22:18:44]: Released. Now processing 45 
+
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 22:18:44]: Released. Now processing 46 .[DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 22:18:44]: Released. Now processing 47 
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 22:18:44]: Released. Now processing 48 ..............................................
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 22:18:44]: Released. Now processing 49 ..
+
+[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/23 22:18:44]: Released. Now processing 50 .[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 22:18:44]: Released. Now processing 51 
+.[DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 22:18:44]: Released. Now processing 52 
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 22:18:44]: Released. Now processing 53 ..............................................
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 22:18:44]: Released. Now processing 54 .
+..
+
+[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/23 22:18:44]: Released. Now processing 55 .[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 22:18:44]: Released. Now processing 56 
+[DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 22:18:44]: Released. Now processing 57 [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 22:18:44]: Released. Now processing 58 ..............................................
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 22:18:44]: Released. Now processing 59 .
+.[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/23 22:18:44]: Released. Now processing 60 .
+
+.
+[DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 22:18:44]: Released. Now processing 62 [DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 22:18:44]: Released. Now processing 61 [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 22:18:44]: Released. Now processing 63 ..............................................
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 22:18:44]: Released. Now processing 64 .
+.DESKTOP-KGFRJ8M][Thread-4  ][2020/08/23 22:18:44]: Released. Now processing 65 
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 22:18:44]: Released. Now processing 66 ..
+
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 22:18:44]: Released. Now processing 68 [DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 22:18:44]: Released. Now processing 67 ..............................................
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 22:18:44]: Released. Now processing 69 .
+.
+[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/23 22:18:44]: Released. Now processing 70 [DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 22:18:44]: Released. Now processing 71 .
+.[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 22:18:44]: Released. Now processing 72 
+[DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 22:18:44]: Released. Now processing 73 ..............................................
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 22:18:44]: Released. Now processing 74 .
+.[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/23 22:18:44]: Released. Now processing 75 
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 22:18:44]: Released. Now processing 76 .
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 22:18:44]: Released. Now processing 77 .
+[DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 22:18:44]: Released. Now processing 78 ..............................................
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 22:18:44]: Released. Now processing 79 .
+.
+[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/23 22:18:44]: Released. Now processing 80 .[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 22:18:44]: Released. Now processing 81 
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 22:18:44]: Released. Now processing 82 .
+[DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 22:18:44]: Released. Now processing 83 ..............................................
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 22:18:44]: Released. Now processing 84 ..
+
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 22:18:44]: Released. Now processing 86 [DESKTOP-KGFRJ8M][Thread-4  ][2020/08/23 22:18:44]: Released. Now processing 85 .
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 22:18:44]: Released. Now processing 87 .
+[DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 22:18:44]: Released. Now processing 88 ..............................................
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 22:18:44]: Released. Now processing 89 ..
+
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 22:18:44]: Released. Now processing 90 [DESKTOP-KGFRJ8M][Thread-4  ][2020/08/23 22:18:44]: Released. Now processing 91 .
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 22:18:44]: Released. Now processing 92 .
+[DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 22:18:44]: Released. Now processing 93 ..............................................
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 22:18:44]: Released. Now processing 94 .
+.[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/23 22:18:44]: Released. Now processing 95 
+.
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 22:18:44]: Released. Now processing 96 .[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 22:18:44]: Released. Now processing 97 
+[DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 22:18:44]: Released. Now processing 98 ..............................................
+[DESKTOP-KGFRJ8M][MainThread][2020/08/23 22:18:44]: ExitFLAG
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 22:18:44]: Released. Now processing 99 .
+.
+.
+.
+..........
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 23:15:43]: worker 1 started
+[DESKTOP-KGFRJ8M][MainThread][2020/08/23 23:15:43]: Fill the queue
+
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 23:15:43]: worker 0 started
+[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/23 23:15:43]: worker 3 started
+[DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 23:15:43]: worker 4 started
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 23:15:43]: No job found [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 23:15:43]: No job found [DESKTOP-KGFRJ8M][MainThread][2020/08/23 23:15:43]: Wait for queue to be executed
+[DESKTOP-KGFRJ8M][Thread-6  ][2020/08/23 23:15:43]: controller started
+[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/23 23:15:43]: No job found [DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 23:15:43]: No job found [DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 23:15:43]: No job found [DESKTOP-KGFRJ8M][MainThread][2020/08/23 23:15:43]: ExitFLAG
+..............................................
+...
+
+.
+
+[DESKTOP-KGFRJ8M][MainThread][2020/08/23 23:20:36]: Fill the queue
+[DESKTOP-KGFRJ8M][Thread-6  ][2020/08/23 23:20:36]: controller started
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 23:20:36]: worker 2 started
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 23:20:36]: worker 1 started
+[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/23 23:20:36]: worker 3 started
+[DESKTOP-KGFRJ8M][MainThread][2020/08/23 23:20:36]: Wait for queue to be executed
+[DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 23:20:36]: worker 4 started
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 23:20:36]: Released. Now processing 1 [DESKTOP-KGFRJ8M][Thread-6  ][2020/08/23 23:20:36]: controller stopped
+[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/23 23:20:36]: Released. Now processing 2 [DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 23:20:36]: Released. Now processing 0 [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 23:20:36]: Released. Now processing 4 [DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 23:20:36]: Released. Now processing 3 ...............................................
+
+.[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 23:20:36]: Released. Now processing 5 
+..DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 23:20:36]: Released. Now processing 6 
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 23:20:36]: Released. Now processing 7 
+[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/23 23:20:36]: Released. Now processing 9 [DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 23:20:36]: Released. Now processing 8 ..............................................
+.
+.
+.
+.
+[DESKTOP-KGFRJ8M][MainThread][2020/08/23 23:27:35]: Fill the queue
+[DESKTOP-KGFRJ8M][MainThread][2020/08/23 23:28:18]: Fill the queue
+[DESKTOP-KGFRJ8M][Thread-6  ][2020/08/23 23:28:18]: controller started
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 23:28:18]: worker 1 started
+[DESKTOP-KGFRJ8M][Thread-6  ][2020/08/23 23:28:18]: controller stopped
+[DESKTOP-KGFRJ8M][MainThread][2020/08/23 23:28:18]: Wait for queue to be executed
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 23:28:18]: worker 2 started
+[DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 23:28:18]: worker 4 started
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 23:28:18]: worker 0 started
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 23:28:18]: Released. Now processing 2 [DESKTOP-KGFRJ8M][Thread-4  ][2020/08/23 23:28:18]: Released. Now processing 1 [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 23:28:18]: Released. Now processing 3 [DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 23:28:18]: Released. Now processing 4 ...............................................
+..
+
+.
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 23:28:18]: Released. Now processing 6 [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 23:28:18]: Released. Now processing 7 
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 23:28:18]: Released. Now processing 5 [DESKTOP-KGFRJ8M][Thread-4  ][2020/08/23 23:28:18]: Released. Now processing 8 [DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 23:28:18]: Released. Now processing 9 [DESKTOP-KGFRJ8M][MainThread][2020/08/23 23:28:18]: ExitFLAG
+..............................................
+.
+.
+.
+.
+[DESKTOP-KGFRJ8M][MainThread][2020/08/23 23:30:20]: Fill the queue
+[DESKTOP-KGFRJ8M][Thread-6  ][2020/08/23 23:30:20]: controller started
+[DESKTOP-KGFRJ8M][MainThread][2020/08/23 23:30:20]: Error starting up controller
+[DESKTOP-KGFRJ8M][MainThread][2020/08/23 23:30:20]: ExitFLAG
+[DESKTOP-KGFRJ8M][Thread-6  ][2020/08/23 23:30:20]: controller stopped
+[DESKTOP-KGFRJ8M][MainThread][2020/08/23 23:38:46]: Fill the queue
+[DESKTOP-KGFRJ8M][Thread-6  ][2020/08/23 23:38:46]: controller started
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 23:38:46]: worker 1 started
+[DESKTOP-KGFRJ8M][Thread-6  ][2020/08/23 23:38:46]: controller stopped
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 23:38:46]: worker 0 started
+[DESKTOP-KGFRJ8M][MainThread][2020/08/23 23:38:46]: Wait for queue to be executed
+[DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 23:38:46]: worker 4 started
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 23:38:46]: worker 2 started
+[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/23 23:38:46]: worker 3 started
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 23:38:46]: Released. Now processing 1 [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 23:38:46]: Released. Now processing 0 [DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 23:38:46]: Released. Now processing 2 [DESKTOP-KGFRJ8M][Thread-4  ][2020/08/23 23:38:46]: Released. Now processing 4 [DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 23:38:46]: Released. Now processing 3 .................................................
+
+
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 23:38:46]: Released. Now processing 5 [DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 23:38:46]: Released. Now processing 6 .
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 23:38:46]: Released. Now processing 7 [DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 23:38:46]: Released. Now processing 8 [DESKTOP-KGFRJ8M][Thread-4  ][2020/08/23 23:38:46]: Released. Now processing 9 [DESKTOP-KGFRJ8M][MainThread][2020/08/23 23:38:46]: ExitFLAG
+..............................................
+.
+.
+.
+.
+[DESKTOP-KGFRJ8M][MainThread][2020/08/23 23:46:07]: Fill the queue
+[DESKTOP-KGFRJ8M][Thread-6  ][2020/08/23 23:46:07]: controller started
+[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/23 23:46:07]: worker 3 started
+[DESKTOP-KGFRJ8M][MainThread][2020/08/23 23:46:07]: Wait for queue to be executed
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 23:46:07]: worker 1 started
+[DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 23:46:07]: worker 4 started
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 23:46:07]: worker 2 started
+[DESKTOP-KGFRJ8M][Thread-6  ][2020/08/23 23:46:07]: controller stopped
+[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/23 23:46:07]: Released. Now processing 0 [DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 23:46:07]: Released. Now processing 2 [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 23:46:07]: Released. Now processing 3 [DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 23:46:07]: Released. Now processing 4 ..............................................
+..[DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 23:46:07]: Released. Now processing 5 ..
+
+
+
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 23:46:07]: Released. Now processing 6 [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 23:46:07]: Released. Now processing 9 [DESKTOP-KGFRJ8M][Thread-4  ][2020/08/23 23:46:07]: Released. Now processing 8 [DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 23:46:07]: Released. Now processing 7 ..............................................
+[DESKTOP-KGFRJ8M][Thread-5  ][2020/08/23 23:46:07]: No job found .
+..
+.
+
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/23 23:46:07]: No job found [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/23 23:46:07]: No job found [DESKTOP-KGFRJ8M][Thread-2  ][2020/08/23 23:46:07]: No job found [DESKTOP-KGFRJ8M][Thread-4  ][2020/08/23 23:46:07]: No job found .............................................
+..
+.
+.
+
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 00:03:57]: Fill the queue
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 00:03:57]: Wait for queue to be executed
+[DESKTOP-KGFRJ8M][Thread-6  ][2020/08/24 00:03:57]: controller started
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 00:03:57]: worker 2 started
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 00:03:57]: worker 0 started
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 00:03:57]: worker 1 started
+[DESKTOP-KGFRJ8M][Thread-5  ][2020/08/24 00:03:57]: worker 4 started
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 00:03:57]: Released. Now processing 0 [DESKTOP-KGFRJ8M][Thread-5  ][2020/08/24 00:03:57]: Released. Now processing 2 [DESKTOP-KGFRJ8M][Thread-4  ][2020/08/24 00:03:57]: Released. Now processing 4 [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 00:03:57]: Released. Now processing 3 [DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 00:03:57]: Released. Now processing 1 [DESKTOP-KGFRJ8M][Thread-6  ][2020/08/24 00:03:57]: controller stopped
+.............................................
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 00:03:57]: Released. Now processing 5 ...
+.
+
+
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 00:03:57]: Released. Now processing 6 [DESKTOP-KGFRJ8M][Thread-5  ][2020/08/24 00:03:57]: Released. Now processing 8 [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 00:03:57]: Released. Now processing 7 [DESKTOP-KGFRJ8M][Thread-4  ][2020/08/24 00:03:57]: Released. Now processing 9 ..............................................
+..
+.
+
+.
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 00:05:17]: Fill the queue
+[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/24 00:05:17]: worker 3 started
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 00:05:17]: Wait for queue to be executed
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 00:05:17]: worker 1 started
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 00:05:17]: worker 0 started
+[DESKTOP-KGFRJ8M][Thread-6  ][2020/08/24 00:05:17]: controller started
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 00:05:17]: worker 2 started
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 00:05:17]: Released. Now processing 1 [DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 00:05:17]: Released. Now processing 2 [DESKTOP-KGFRJ8M][Thread-4  ][2020/08/24 00:05:17]: No job found  processing 0 ............................................[DESKTOP-KGFRJ8M][Thread-6  ][2020/08/24 00:05:17]: controller stopped
+.
+...
+.
+
+
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 00:05:17]: Released. Now processing 3 [DESKTOP-KGFRJ8M][Thread-4  ][2020/08/24 00:05:17]: Released. Now processing 6 [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 00:05:17]: Released. Now processing 4 [DESKTOP-KGFRJ8M][Thread-5  ][2020/08/24 00:05:17]: Released. Now processing 7 ..............................................
+..
+
+.
+.
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 00:05:17]: No job found [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 00:05:17]: No job found [DESKTOP-KGFRJ8M][Thread-5  ][2020/08/24 00:05:17]: Released. Now processing 9 [DESKTOP-KGFRJ8M][Thread-4  ][2020/08/24 00:05:17]: No job found  processing 8 ...............................................
+..
+
+.
+
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 00:07:09]: Fill the queue
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 00:07:09]: worker 0 started
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 00:07:09]: Wait for queue to be executed
+[DESKTOP-KGFRJ8M][Thread-6  ][2020/08/24 00:07:09]: controller started
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 00:07:09]: worker 2 started
+[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/24 00:07:09]: worker 3 started
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 00:07:09]: Released. Now processing 1 [DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 00:07:09]: Released. Now processing 0 [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 00:07:09]: No job found [DESKTOP-KGFRJ8M][Thread-4  ][2020/08/24 00:07:09]: Released. Now processing 2 .............................................[DESKTOP-KGFRJ8M][Thread-6  ][2020/08/24 00:07:09]: controller stopped
+..
+
+..
+.
+
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 00:07:09]: Released. Now processing 3 [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 00:07:09]: Released. Now processing 5 [DESKTOP-KGFRJ8M][Thread-5  ][2020/08/24 00:07:09]: Released. Now processing 6 [DESKTOP-KGFRJ8M][Thread-4  ][2020/08/24 00:07:09]: Released. Now processing 7 [DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 00:07:09]: Released. Now processing 4 .............................................
+...
+
+
+.
+[DESKTOP-KGFRJ8M][Thread-5  ][2020/08/24 00:07:09]: No job found [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 00:07:09]: Released. Now processing 9 [DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 00:07:09]: Released. Now processing 8 [DESKTOP-KGFRJ8M][Thread-4  ][2020/08/24 00:07:09]: No job found [DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 00:07:09]: No job found ...............................................
+
+.
+..
+
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 00:10:31]: Fill the queue
+[DESKTOP-KGFRJ8M][Thread-6  ][2020/08/24 00:10:31]: controller started
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 00:15:12]: Fill the queue
+[DESKTOP-KGFRJ8M][Thread-6  ][2020/08/24 00:15:12]: controller started
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 00:15:12]: Timeout starting up controller
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 00:16:49]: Fill the queue
+[DESKTOP-KGFRJ8M][Thread-6  ][2020/08/24 00:16:49]: controller started
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 00:16:49]: Timeout starting up controller
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 00:17:31]: Fill the queue
+[DESKTOP-KGFRJ8M][Thread-6  ][2020/08/24 00:17:31]: controller started
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 00:19:10]: Fill the queue
+[DESKTOP-KGFRJ8M][Thread-6  ][2020/08/24 00:19:10]: controller started
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 00:19:10]: Timeout starting up controller
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 00:21:18]: Fill the queue
+[DESKTOP-KGFRJ8M][Thread-6  ][2020/08/24 00:21:18]: controller started
+[DESKTOP-KGFRJ8M][Thread-5  ][2020/08/24 00:21:18]: worker 4 started
+[DESKTOP-KGFRJ8M][Thread-6  ][2020/08/24 00:21:18]: controller stopped
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 00:21:18]: Wait for queue to be executed
+[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/24 00:21:18]: worker 3 started
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 00:21:18]: worker 0 started
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 00:21:18]: worker 2 started
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 00:21:18]: worker 1 started
+[DESKTOP-KGFRJ8M][Thread-5  ][2020/08/24 00:21:18]: Released. Now processing 0 [DESKTOP-KGFRJ8M][Thread-4  ][2020/08/24 00:21:18]: Released. Now processing 1 [DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 00:21:18]: Released. Now processing 2 [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 00:21:18]: Released. Now processing 3 [DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 00:21:18]: Released. Now processing 4 ...............................................
+..
+.
+
+[DESKTOP-KGFRJ8M][Thread-5  ][2020/08/24 00:21:18]: Released. Now processing 5 
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 00:21:18]: Released. Now processing 8 [DESKTOP-KGFRJ8M][Thread-4  ][2020/08/24 00:21:18]: Released. Now processing 6 [DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 00:21:18]: Released. Now processing 7 [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 00:21:18]: Released. Now processing 9 ..............................................
+.
+...
+
+
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 00:21:18]: No job found [DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 00:21:18]: No job found [DESKTOP-KGFRJ8M][Thread-4  ][2020/08/24 00:21:18]: No job found [DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 00:21:18]: No job found [DESKTOP-KGFRJ8M][Thread-5  ][2020/08/24 00:21:18]: No job found .............................................
+..
+.
+.
+
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 00:21:18]: No job found [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 00:21:18]: No job found [DESKTOP-KGFRJ8M][Thread-4  ][2020/08/24 00:21:18]: No job found [DESKTOP-KGFRJ8M][Thread-5  ][2020/08/24 00:21:18]: No job found [DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 00:21:18]: No job found ..............................................
+.
+...
+
+
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 00:21:18]: No job found [DESKTOP-KGFRJ8M][Thread-4  ][2020/08/24 00:21:18]: No job found [DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 00:21:18]: No job found [DESKTOP-KGFRJ8M][Thread-5  ][2020/08/24 00:21:18]: No job found ..............................................
+..
+
+..
+
+[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/24 00:21:18]: No job found [DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 00:21:18]: No job found [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 00:21:18]: No job found [DESKTOP-KGFRJ8M][Thread-5  ][2020/08/24 00:21:18]: No job found [DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 00:21:18]: No job found ...............................................
+
+..
+
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 00:21:18]: No job found [DESKTOP-KGFRJ8M][Thread-4  ][2020/08/24 00:21:18]: No job found [DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 00:21:18]: No job found [DESKTOP-KGFRJ8M][Thread-5  ][2020/08/24 00:21:18]: No job found .
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 00:21:18]: No job found .....[DESKTOP-KGFRJ8M][MainThread][2020/08/24 11:08:38]: Fill the queue
+[DESKTOP-KGFRJ8M][Thread-6  ][2020/08/24 11:08:38]: controller started
+[DESKTOP-KGFRJ8M][Thread-5  ][2020/08/24 11:08:38]: worker 4 started
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 11:08:38]: worker 0 started
+[DESKTOP-KGFRJ8M][Thread-6  ][2020/08/24 11:08:38]: controller stopped
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 11:08:38]: Wait for queue to be executed
+[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/24 11:08:38]: worker 3 started
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 11:08:38]: worker 2 started
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 11:08:38]: Released. Now processing 1 [DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 11:08:38]: Released. Now processing 4 [DESKTOP-KGFRJ8M][MainThread][2020/08/24 11:08:38]: Waiting [DESKTOP-KGFRJ8M][Thread-4  ][2020/08/24 11:08:38]: Released. Now processing 2 [DESKTOP-KGFRJ8M][Thread-5  ][2020/08/24 11:08:38]: Released. Now processing 0 [DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 11:08:38]: Released. Now processing 3 ..........................
+...[DESKTOP-KGFRJ8M][MainThread][2020/08/24 11:08:38]: Waiting .....................
+...
+
+.
+
+
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 11:08:38]: Released. Now processing 5 [DESKTOP-KGFRJ8M][Thread-5  ][2020/08/24 11:08:38]: Released. Now processing 8 [DESKTOP-KGFRJ8M][Thread-4  ][2020/08/24 11:08:38]: Released. Now processing 9 [DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 11:08:38]: Released. Now processing 7 ..............................................
+.
+...
+
+
+[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/24 11:08:38]: No job found [DESKTOP-KGFRJ8M][Thread-5  ][2020/08/24 11:08:38]: No job found [DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 11:08:38]: No job found [DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 11:08:38]: No job found [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 11:08:38]: No job found ..............................................
+...
+
+
+
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 11:08:38]: No job found [DESKTOP-KGFRJ8M][Thread-5  ][2020/08/24 11:08:38]: No job found [DESKTOP-KGFRJ8M][Thread-4  ][2020/08/24 11:08:38]: No job found [DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 11:08:38]: No job found [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 11:08:38]: No job found ..............................................
+....
+
+
+
+[DESKTOP-KGFRJ8M][Thread-5  ][2020/08/24 11:08:38]: No job found [DESKTOP-KGFRJ8M][Thread-4  ][2020/08/24 11:08:38]: No job found [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 11:08:38]: No job found [DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 11:08:38]: No job found ........................................[DESKTOP-KGFRJ8M][MainThread][2020/08/24 12:38:22]: Fill the queue
+[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/24 12:38:22]: controller started
+[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/24 12:38:22]: controller stopped
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 12:38:22]: worker 0 started
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 12:38:22]: worker 2 started
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 12:38:22]: Wait for queue to be executed
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 12:38:22]: worker 1 started
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 12:38:22]: Released. Now processing 0 [DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 12:38:22]: Released. Now processing 1 [DESKTOP-KGFRJ8M][MainThread][2020/08/24 12:38:22]: Waiting [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 12:38:22]: Released. Now processing 2 .................
+...[DESKTOP-KGFRJ8M][MainThread][2020/08/24 12:38:22]: Waiting .................
+..
+
+.
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 12:38:22]: Waiting [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 12:38:22]: Released. Now processing 4 [DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 12:38:22]: Released. Now processing 5 [DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 12:38:22]: Released. Now processing 3 .................
+...[DESKTOP-KGFRJ8M][MainThread][2020/08/24 12:38:22]: Waiting .................
+..
+
+.
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 12:38:22]: Released. Now processing 7 [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 12:38:22]: Released. Now processing 6 [DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 12:38:22]: Released. Now processing 8 ..................
+..[DESKTOP-KGFRJ8M][MainThread][2020/08/24 12:38:22]: Waiting .................
+..
+
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 12:38:22]: No job found [DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 12:38:22]: Released. Now processing 9 [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 12:38:22]: No job found .
+.............................
+.
+
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 12:38:22]: No job found [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 12:38:22]: No job found [DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 12:38:22]: No job found .........[DESKTOP-KGFRJ8M][MainThread][2020/08/24 12:39:29]: Fill the queue
+[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/24 12:39:29]: controller started
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 12:39:29]: worker 1 started
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 12:39:29]: worker 0 started
+[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/24 12:39:29]: controller stopped
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 12:39:29]: Wait for queue to be executed
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 12:39:29]: worker 2 started
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 12:39:29]: Released. Now processing 0 [DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 12:39:29]: Released. Now processing 2 [DESKTOP-KGFRJ8M][MainThread][2020/08/24 12:39:29]: Waiting [DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 12:39:29]: Released. Now processing 1 ....................
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 12:39:29]: Waiting .................
+.
+.
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 12:39:29]: Released. Now processing 3 [DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 12:39:29]: Released. Now processing 5 [DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 12:39:29]: Released. Now processing 4 .
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 12:39:29]: Waiting ....................
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 12:39:29]: Waiting ..................
+.
+
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 12:39:29]: Released. Now processing 7 [DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 12:39:29]: Released. Now processing 6 [DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 12:39:29]: Released. Now processing 8 .
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 12:39:29]: Waiting ....................
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 12:39:29]: Waiting .................
+..
+
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 12:39:29]: Released. Now processing 9 .
+..........
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 12:40:57]: Fill the queue
+[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/24 12:40:57]: controller started
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 12:40:57]: worker 0 started
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 12:40:57]: Wait for queue to be executed
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 12:40:57]: worker 1 started
+[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/24 12:40:57]: controller stopped
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 12:40:57]: worker 2 started
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 12:40:57]: Released. Now processing 2 [DESKTOP-KGFRJ8M][MainThread][2020/08/24 12:40:57]: Waiting [DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 12:40:57]: Released. Now processing 1 [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 12:40:57]: Released. Now processing 0 .................
+...[DESKTOP-KGFRJ8M][MainThread][2020/08/24 12:40:57]: Waiting .................
+.
+.
+.
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 12:40:57]: Released. Now processing 4 [DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 12:40:57]: Released. Now processing 3 [DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 12:40:57]: Released. Now processing 5 [DESKTOP-KGFRJ8M][MainThread][2020/08/24 12:40:57]: Waiting ....................
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 12:40:57]: Waiting .................
+..
+
+.[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 12:40:57]: Released. Now processing 7 [DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 12:40:57]: Released. Now processing 8 
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 12:40:57]: Released. Now processing 6 [DESKTOP-KGFRJ8M][MainThread][2020/08/24 12:40:57]: Waiting ....................
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 12:40:57]: Waiting ................
+
+.
+.
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 12:40:57]: Released. Now processing 9 ..........
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 13:30:30]: Fill the queue
+[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/24 13:30:30]: controller started
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 13:30:30]: worker 1 started
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 13:30:30]: worker 2 started
+[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/24 13:30:30]: controller stopped
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 13:30:30]: Wait for queue to be executed
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 13:30:30]: worker 0 started
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 13:30:30]: Released. Now processing 0 [DESKTOP-KGFRJ8M][MainThread][2020/08/24 13:30:30]: Waiting . Now processing 1 [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 13:30:30]: Released. Now processing 2 ...................
+.[DESKTOP-KGFRJ8M][MainThread][2020/08/24 13:30:30]: Waiting .................
+.
+.
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 13:30:30]: Released. Now processing 3 [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 13:30:30]: Released. Now processing 5 [DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 13:30:30]: Released. Now processing 4 .
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 13:30:30]: Waiting ....................
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 13:30:30]: Waiting .................
+..
+
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 13:30:30]: Released. Now processing 8 [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 13:30:30]: Released. Now processing 7 [DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 13:30:30]: Released. Now processing 6 .
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 13:30:30]: Waiting ....................
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 13:30:30]: Waiting .................
+..
+
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 13:30:30]: Released. Now processing 9 .
+....[DESKTOP-KGFRJ8M][MainThread][2020/08/24 13:32:52]: Fill the queue
+[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/24 13:32:52]: controller started
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 13:32:52]: worker 1 started
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 13:32:52]: worker 0 started
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 13:32:52]: Wait for queue to be executed
+[DESKTOP-KGFRJ8M][Thread-4  ][2020/08/24 13:32:52]: controller stopped
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 13:32:52]: worker 2 started
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:36:05]: Fill the queue
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 16:36:05]: controller started
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:36:05]: Wait for queue to be executed
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 16:36:05]: worker 0 started
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 16:36:05]: controller stopped
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 16:36:05]: worker 1 started
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:39:14]: Fill the queue
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 16:39:14]: controller started
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 16:39:14]: controller stopped
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 16:39:14]: worker 0 started
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 16:39:14]: worker 1 started
+e executed
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 16:39:14]: 1 [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 16:39:14]: 0 [DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:39:14]: Percent: 80.0 .....
+.[DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:39:14]: Percent: 80.0 ......
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:39:14]: Percent: 80.0 ......
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:39:14]: Percent: 80.0 ......
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:39:14]: Percent: 80.0 ....
+.
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 16:39:14]: 3 [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 16:39:14]: 2 .
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:39:14]: Percent: 60.0 ......
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:39:14]: Percent: 60.0 ......
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:39:14]: Percent: 60.0 ......
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:39:14]: Percent: 60.0 ......
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:39:14]: Percent: 60.0 .....
+
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 16:39:14]: 4 [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 16:39:14]: 5 .
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:39:14]: Percent: 40.0 ......
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:39:14]: Percent: 40.0 ......
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:39:14]: Percent: 40.0 ......
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:39:14]: Percent: 40.0 ......
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:39:14]: Percent: 40.0 .....
+
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 16:39:14]: 7 [DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 16:39:14]: 6 .
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:39:14]: Percent: 20.0 ......
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:39:14]: Percent: 20.0 ......
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:39:14]: Percent: 20.0 ......
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:39:14]: Percent: 20.0 ......
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:39:14]: Percent: 20.0 .....
+
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 16:39:14]: 9 [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 16:39:14]: 8 .
+....[DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:40:55]: Fill the queue
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 16:40:55]: controller started
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 16:40:55]: worker 0 started
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 16:40:55]: worker 1 started
+[DESKTOP-KGFRJ8M][Thread-3  ][2020/08/24 16:40:55]: controller stopped
+executed
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 16:40:55]: 1 [DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:40:55]: Percent: 20.0 [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 16:40:55]: 0 ....
+..[DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:40:55]: Percent: 20.0 ......
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:40:55]: Percent: 20.0 ......
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:40:55]: Percent: 20.0 ......
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:40:55]: Percent: 20.0 .....
+
+[DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 16:40:55]: 2 [DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 16:40:55]: 3 .
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:40:55]: Percent: 40.0 ......
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:40:55]: Percent: 40.0 ......
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:40:55]: Percent: 40.0 ......
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:40:55]: Percent: 40.0 ......
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:40:55]: Percent: 40.0 .....
+
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 16:40:55]: 5 [DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 16:40:55]: 4 .
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:40:55]: Percent: 60.0 ......
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:40:55]: Percent: 60.0 ......
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:40:55]: Percent: 60.0 ......
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:40:55]: Percent: 60.0 ......
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:40:55]: Percent: 60.0 .....
+
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 16:40:55]: 7 [DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 16:40:55]: 6 .
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:40:55]: Percent: 80.0 ......
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:40:55]: Percent: 80.0 ......
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:40:55]: Percent: 80.0 ......
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:40:55]: Percent: 80.0 ......
+[DESKTOP-KGFRJ8M][MainThread][2020/08/24 16:40:55]: Percent: 80.0 ....
+.
+[DESKTOP-KGFRJ8M][Thread-1  ][2020/08/24 16:40:55]: 8 [DESKTOP-KGFRJ8M][Thread-2  ][2020/08/24 16:40:55]: 9 .
+...................
+.

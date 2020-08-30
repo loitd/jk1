@@ -1,0 +1,75 @@
+event: ns : Nanoseconds
+events: ns
+summary: 421700
+fl=demo.py
+fn=<module>
+1 4800
+cfl=demo.py
+cfn=solution
+calls=1 1
+1 415000
+
+fl=demo.py
+fn=solution
+1 23500
+cfl=~
+cfn=<built-in method builtins.len>
+calls=3 0
+1 100
+cfl=~
+cfn=<built-in method builtins.print>
+calls=1 0
+1 383800
+cfl=~
+cfn=<method 'append' of 'list' objects>
+calls=4 0
+1 600
+cfl=~
+cfn=<method 'extend' of 'list' objects>
+calls=3 0
+1 1299
+cfl=~
+cfn=<method 'pop' of 'list' objects>
+calls=6 0
+1 1699
+cfl=~
+cfn=<method 'split' of 'str' objects>
+calls=1 0
+1 4000
+
+fl=~
+fn=<built-in method builtins.exec>
+0 1900
+cfl=demo.py
+cfn=<module>
+calls=1 1
+0 419799
+
+fl=~
+fn=<built-in method builtins.len>
+0 100
+
+fl=~
+fn=<built-in method builtins.print>
+0 383800
+
+fl=~
+fn=<method 'append' of 'list' objects>
+0 600
+
+fl=~
+fn=<method 'disable' of '_lsprof.Profiler' objects>
+0 300
+
+fl=~
+fn=<method 'extend' of 'list' objects>
+0 1299
+
+fl=~
+fn=<method 'pop' of 'list' objects>
+0 1699
+
+fl=~
+fn=<method 'split' of 'str' objects>
+0 4000
+
