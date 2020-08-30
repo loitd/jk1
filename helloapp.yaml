@@ -5,7 +5,7 @@ metadata:
     labels:
         name: pv1
 spec:
-    storageClassName: PV1Class
+    storageClassName: pv1class
     capacity: 
         storage: 1Gi
     accessModes:
@@ -20,8 +20,29 @@ metadata:
     labels:
         name: pvc1
 spec:
+    storageClassName: pv1class
     accessModes:
         - ReadWriteOnce
     resources:
         requests:
             storage: 1Gi
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+    name: hellodeploy
+spec:
+    replicas: 2
+    selector:
+        matchLabels:
+            app: helloapp
+    template:
+        metadata: 
+            labels: 
+                app: helloapp
+        spec:
+            containers:
+                - name: busybox-containers
+                image: busybox
+                ports:
+                    - containerPort: 80
