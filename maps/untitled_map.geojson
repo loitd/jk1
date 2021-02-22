@@ -4,34 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "England Headquarter",
-        "description": "England Headquarter of the company"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.725098,
-          52.562995
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Bruxelles Branch",
-        "description": "Bruxelles Branch of the company"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.284912,
-          50.951506
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "England Region",
         "description": "England Region map"
       },
