@@ -31,7 +31,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "England Region",
+        "description": "England Region map"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -260,7 +263,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Bruxelles Region",
+        "description": "Bruxelles Region map"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -357,7 +363,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Luxembourg Region",
+        "description": "Luxembourg Region map"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
