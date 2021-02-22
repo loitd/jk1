@@ -97,6 +97,19 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Useidange"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.002269,
+          49.788468
+        ]
+      }
     }
   ]
 }
